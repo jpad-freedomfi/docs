@@ -138,6 +138,15 @@ module.exports = {
     },
     {
       type: 'category',
+      label: 'Learn LoRaWAN',
+      link: { type: 'doc', id: 'network-iot/learn/build-a-device' },
+      items: [
+        'network-iot/learn/build-a-device',
+      ],
+      collapsed: true,
+    },
+    {
+      type: 'category',
       label: 'Use Helium LoRaWAN',
       link: { type: 'doc', id: 'network-iot/lorawan-network-servers/lorawan-network-servers' },
       items: [

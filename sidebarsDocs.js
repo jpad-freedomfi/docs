@@ -139,10 +139,8 @@ module.exports = {
     {
       type: 'category',
       label: 'Learn LoRaWAN',
-      link: { type: 'doc', id: 'network-iot/learn/build-a-device' },
-      items: [
-        'network-iot/learn/build-a-device',
-      ],
+      link: { type: 'doc', id: 'network-iot/learn/understanding-lorawan' },
+      items: ['network-iot/learn/understanding-lorawan', 'network-iot/learn/build-a-device'],
       collapsed: true,
     },
     {
